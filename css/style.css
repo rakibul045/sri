@@ -1,0 +1,31 @@
+.green{
+    height: 400px;
+    background-color: green;
+    width: 700px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.red{
+        height: 250px;
+        background-color: red;
+        width: 250px;
+        border-radius: 50%;
+       
+
+} 
+.red h3{
+    display: block;
+    font-size: 1.7em;
+    margin-block-start: 4em;
+    margin-block-end: -10em;
+    margin-inline-start: 29px;
+    margin-inline-end: 20px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+    color: green;
+    
+}
